@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.RASAutoClicker" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/ras_gold</item>
+        <item name="colorPrimaryVariant">@color/ras_gold_dark</item>
+        <item name="colorOnPrimary">@color/ras_black</item>
+        <item name="colorSecondary">@color/ras_emerald</item>
+        <item name="colorOnSecondary">@color/ras_black</item>
+        <item name="android:colorBackground">@color/ras_black</item>
+        <item name="android:statusBarColor">@color/ras_black</item>
+        <item name="android:navigationBarColor">@color/ras_black</item>
+        <item name="android:windowBackground">@color/ras_black</item>
+    </style>
+
+    <style name="RasButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/ras_black</item>
+        <item name="backgroundTint">@color/ras_gold</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.08</item>
+        <item name="cornerRadius">14dp</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+    </style>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RAS// AUTO CLICKER</string>
+
+    <!-- Language selector -->
+    <string name="choose_language">Elegí el idioma</string>
+    <string name="flag_us_desc">Bandera de Estados Unidos</string>
+    <string name="flag_ar_desc">Bandera de Argentina</string>
+    <string name="language_saved">Idioma guardado</string>
+
+    <!-- Home -->
+    <string name="channels">CANALES</string>
+    <string name="specific_search">BÚSQUEDA ESPECÍFICA</string>
+    <string name="start_service">ACTIVAR ACCESIBILIDAD</string>
+    <string name="battery_settings">QUITAR RESTRICCIONES DE BATERÍA</string>
+    <string name="overlay_permission">PERMISO DE SUPERPOSICIÓN</string>
+    <string name="granted">Concedido</string>
+    <string name="not_granted">No concedido</string>
+    <string name="service_running">Servicio activo</string>
+    <string name="service_stopped">Servicio inactivo</string>
+
+    <!-- Floating panel -->
+    <string name="panel_start">INICIAR</string>
+    <string name="panel_pause">PAUSAR</string>
+    <string name="panel_hide_pointers">OCULTAR PUNTEROS</string>
+    <string name="panel_show_pointers">MOSTRAR PUNTEROS</string>
+    <string name="panel_sell_all">SELL ALL</string>
+    <string name="panel_sell_multi">SELL MULTI</string>
+    <string name="panel_close">CERRAR PANEL</string>
+    <string name="panel_time">Tiempo</string>
+    <string name="panel_packs">Sobres</string>
+
+    <!-- Channels -->
+    <string name="channels_title">CANALES</string>
+    <string name="channel_felcor">CANAL FELCOR</string>
+    <string name="channel_comer305">CANAL COMER305</string>
+    <string name="channel_dylanfut">CANAL DYLANFUT</string>
+    <string name="channel_frykko">CANAL FRYKKO</string>
+    <string name="open_channel_failed">No se pudo abrir el enlace</string>
+
+    <!-- Specific search -->
+    <string name="specific_search_title">BÚSQUEDA ESPECÍFICA</string>
+    <string name="specific_search_hint">Cargá hasta 3 capturas de las cartas que querés conseguir.</string>
+    <string name="add_capture">AGREGAR CAPTURA</string>
+    <string name="captures_loaded">Capturas cargadas</string>
+    <string name="clear_captures">BORRAR CAPTURAS</string>
+    <string name="card_found_title">HAZ CONSEGUIDO TU CARTA ESPECÍFICA</string>
+    <string name="card_found_body">Se encontró una de tus cartas. Podés volver a la app para sacar la captura.</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_name">RAS Auto Clicker</string>
+    <string name="notif_running">Autoclicker en ejecución</string>
+    <string name="notif_running_body">Tocá para abrir el panel</string>
+</resources>

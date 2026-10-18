@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ras_gold">#F5C542</color>
+    <color name="ras_gold_dark">#B8860B</color>
+    <color name="ras_black">#0B0B0B</color>
+    <color name="ras_panel">#141414</color>
+    <color name="ras_emerald">#12B76A</color>
+    <color name="ras_text">#FFFFFF</color>
+    <color name="ras_text_dim">#B0B0B0</color>
+</resources>

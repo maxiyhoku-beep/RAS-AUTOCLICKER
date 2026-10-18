@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RAS// AUTO CLICKER</string>
+    <string name="accessibility_label">RAS// AUTO CLICKER</string>
+    <string name="accessibility_description">Permite que RAS// AUTO CLICKER realice los toques automáticos sobre el juego. No recopila ni envía información.</string>
+</resources>
